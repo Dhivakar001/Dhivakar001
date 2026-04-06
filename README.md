@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Dhivakar
 - 👀 I’m interested in UI&UX Design and Full Stack Web Develepment
-- 🌱 I’m currently learning kotlin
+- 🌱 I’m currently learning Kotlin App Development
 - 💞️ I’m looking to collaborate on UI Project
 - 📫 How to reach me⬇️
 - https://www.behance.net/dhivakarui
